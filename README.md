@@ -34,7 +34,6 @@ I'm a software developer who loves new challenges. My goal is to leverage my lea
 <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/csharp.png?raw=true" style="max-width:100%;">
 <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/cpp.png?raw=true" style="max-width:100%;">
 <img align="left" height="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/java.png?raw=true" style="max-width:100%;">
-<img align="left" width="80px" src="https://github.com/TonGarcia/TonGarcia/blob/main/scala.jpg?raw=true" style="max-width:100%;">
 
 <br>
 <hr>
@@ -49,8 +48,6 @@ I'm a software developer who loves new challenges. My goal is to leverage my lea
 <p></p>
 
 <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/aws.svg?raw=true" style="max-width:100%;">
-<img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/azure.png?raw=true" style="max-width:100%;">
-<img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/gcp.png?raw=true" style="max-width:100%;">
 
 <br>
 <hr>
@@ -69,7 +66,7 @@ I'm a software developer who loves new challenges. My goal is to leverage my lea
 
 
 <!--
-**TonGarcia/TonGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tecnosouza/Tecnosouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
