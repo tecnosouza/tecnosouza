@@ -1,11 +1,11 @@
 # Henrique Claudino de Souza - [Developer mobile & FullStack Developer] 👋
 
-I´m software & data engineer who love new challenges & OpenSource contributions. My goal is to bring Science, Technology & the God's love word all over the world.
+I'm a software developer who loves new challenges. My goal is to leverage my learnings in the area and be able to contribute to the technology community.
 
-- :computer: I’m currently working on Data Science for HealthTech (twice award winner) & Marketing + Drop Shipping
-- :chart_with_upwards_trend: I’m currently working on CryptoCurrency SmartContracts & FinTech
-- :books: I’m constantly learning & improving my skills (data science, virtual reality and full stack develoer (web(front+back) & mobile))
-- :moneybag: I’m looking for Data challenges to collaborate to world growth & DeFi chllanges to contribute to the Money Revolution
+- :computer: I currently work as a full stack developer and mentor.
+- :chart_with_upwards_trend: Currently I'm working with language Ruby on rails, ExtJs, React, JAVA, JAVA - Android and Flutter.
+- :books: I'm constantly learning and improving my skills (data science, power BI and full stack developer (web (front+back) and mobile))
+- :moneybag: I'm always looking for challenges to support global growth and DeFi challenges to contribute to the cash revolution
 
 **Connect with me:**
 
