@@ -1,4 +1,4 @@
-# Henrique Claudino de Souza - [Developer mobile & FullStack Developer] 👋
+# Henrique Claudino de Souza - [FullStack Developer] 👋
 
 I'm a software developer who loves new challenges. My goal is to leverage my learnings in the area and be able to contribute to the technology community.
 
