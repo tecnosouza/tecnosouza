@@ -61,9 +61,11 @@ I'm a software developer who loves new challenges. My goal is to leverage my lea
 <br>
 <hr>
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tecnosouza&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tecnosouza&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tecnosouza&theme=nord_dark) |
+| :-: | :-: | :-: |
 
-<img align="left" alt="Henrique GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=tecnosouza&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=tecnosouza&amp;show_icons=true&amp;hide_border=true" style="max-width:100%;">
-
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tecnosouza&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=tecnosouza&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 <!--
 **Tecnosouza/Tecnosouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
