@@ -2,8 +2,8 @@
 
 Sou um desenvolvedor de software apaixonado por desafios. Meu objetivo é aproveitar meus aprendizados na área e contribuir para a comunidade de tecnologia.
 
-- 💻 Atualmente trabalho como desenvolvedor full stack e mentor.
-- 📈 Trabalho com Ruby on Rails, ExtJs, React, Java, Java - Android e Flutter.
+- 💻 Atualmente trabalho como desenvolvedor full stack web, mobile e mentor.
+- 📈 Trabalho com Ruby on Rails, ExtJs, React, PHP, node.js, Java, (Java - Android) e Flutter.
 - 📚 Estou constantemente aprendendo e aprimorando minhas habilidades (data science, Power BI e desenvolvimento full stack para web e mobile).
 - 💰 Busco desafios para apoiar o crescimento global e contribuir para a revolução financeira descentralizada (DeFi).
 
