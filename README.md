@@ -50,8 +50,6 @@ Sou um desenvolvedor de software apaixonado por desafios. Meu objetivo é aprove
 
 ---
 
-> 💡 Dica: Para visualizar no modo claro, altere `theme=github_dark` para `theme=default` nas URLs das imagens!
-
 🚀 Sempre aberto a novos desafios e oportunidades!
 
 
